@@ -25,7 +25,7 @@ SECRET_KEY = 'p26#_e^pq3y9mcliq-^gz8o4^0y$q8muz!zot!-qx))lm9+8si'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['3.145.128.102']
+ALLOWED_HOSTS = ['https://updated-aeg-site.herokuapp.com/']
 
 
 # Application definition
